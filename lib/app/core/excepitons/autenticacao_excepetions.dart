@@ -1,0 +1,4 @@
+
+class AutenticacaoExcepetions implements Exception{
+  
+}
